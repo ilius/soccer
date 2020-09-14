@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="750"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="pitch-metric.svg"
+   version="1.0">
+  <svg:defs
+     id="defs4">
+    <svg:marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send"
+       style="overflow:visible">
+      <svg:path
+         id="path6256"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(-0.3,0,0,-0.3,1.5,0)" />
+    </svg:marker>
+    <svg:marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Sstart"
+       style="overflow:visible">
+      <svg:path
+         id="path6259"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(0.3,0,0,0.3,-1.5,0)" />
+    </svg:marker>
+    <svg:marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <svg:path
+         id="path6265"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(0.6,0,0,0.6,-3,0)" />
+    </svg:marker>
+    <svg:marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <svg:path
+         id="path6271"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,-5.5,0)" />
+    </svg:marker>
+    <svg:marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <svg:path
+         id="path6268"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(-1.1,0,0,-1.1,5.5,0)" />
+    </svg:marker>
+    <svg:marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <svg:path
+         id="path6286"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(-0.8,-0.8)" />
+    </svg:marker>
+    <svg:marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <svg:path
+         id="path6289"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.8,0.8)" />
+    </svg:marker>
+    <svg:marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <svg:path
+         id="path6262"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(-0.6,0,0,-0.6,3,0)" />
+    </svg:marker>
+    <svg:linearGradient
+       id="linearGradient3076">
+      <svg:stop
+         style="stop-color:#ff0a0a;stop-opacity:1;"
+         offset="0"
+         id="stop3078" />
+      <svg:stop
+         id="stop3084"
+         offset="0.33000001"
+         style="stop-color:#ff0a0a;stop-opacity:1;" />
+      <svg:stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.33000001"
+         id="stop3086" />
+      <svg:stop
+         id="stop3088"
+         offset="0.66000003"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <svg:stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0.66000003"
+         id="stop3090" />
+      <svg:stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="1"
+         id="stop3080" />
+    </svg:linearGradient>
+  </svg:defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="522.00782"
+     inkscape:cy="435.06499"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     inkscape:window-width="1890"
+     inkscape:window-height="944"
+     inkscape:window-x="30"
+     inkscape:window-y="0"
+     inkscape:guide-points="true"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="1" />
+  <svg:metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Grass"
+     sodipodi:insensitive="true">
+    <svg:rect
+       style="fill:#009c00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1317"
+       width="1000"
+       height="750"
+       x="0"
+       y="-1.5765167e-014" />
+  </svg:g>
+  <svg:g
+     inkscape:label="Lines"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="fill-opacity:0.5">
+    <svg:path
+       sodipodi:type="arc"
+       style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3128"
+       sodipodi:cx="158.1846"
+       sodipodi:cy="253.44841"
+       sodipodi:rx="1.4676921"
+       sodipodi:ry="1.3046153"
+       d="M 159.65229 253.44841 A 1.4676921 1.3046153 0 1 1  156.71691,253.44841 A 1.4676921 1.3046153 0 1 1  159.65229 253.44841 z"
+       transform="matrix(2.725367,0,0,3.066038,-285.3488,-402.0825)" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 66.119363,522.44126 L 187.28619,522.44126 L 187.28619,230.89387 L 66.834687,230.89387 L 66.834687,230.89387"
+       id="path2196"
+       sodipodi:nodetypes="ccccc" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 67.059918,307.54482 L 109.26645,307.54482 L 107.89769,441.684 L 65.465927,441.68398"
+       id="path2198"
+       sodipodi:nodetypes="cccc" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 64.834687,348.60785 L 42.934403,348.60785 L 42.934403,401.98976 L 64.834687,401.98974"
+       id="path2200"
+       sodipodi:nodetypes="cccc" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 187.06096,427.34289 C 225.38644,405.10043 223.85428,344.99164 186.89759,323.09136"
+       id="path2206"
+       sodipodi:nodetypes="cc" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 66.891966,58.792383 C 66.891966,58.792383 74.985781,56.861754 76.990648,48.396683"
+       id="path3117"
+       sodipodi:nodetypes="cs" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 76.349593,702.93842 C 76.349593,702.93842 74.418956,694.84462 65.953895,692.83974"
+       id="path3120"
+       sodipodi:nodetypes="cs" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 938.00859,692.05329 C 938.00859,692.05329 929.91478,693.98393 927.90991,702.44899"
+       id="path3122"
+       sodipodi:nodetypes="cs" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 66.579203,702.43412 L 66.579203,48.163476 L 937.11506,49.532242 L 938.48382,702.43412 L 66.579203,702.43412 z "
+       id="path2194" />
+    <svg:path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:white;stroke-width:1.60539436;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2212"
+       sodipodi:cx="336.13116"
+       sodipodi:cy="254.39229"
+       sodipodi:rx="34.842865"
+       sodipodi:ry="35.526058"
+       d="M 370.97403 254.39229 A 34.842865 35.526058 0 1 1  301.2883,254.39229 A 34.842865 35.526058 0 1 1  370.97403 254.39229 z"
+       transform="matrix(1.908086,0,0,1.871392,-141.3672,-101.0677)" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 938.02544,522.60464 L 819.14567,522.44128 L 819.14567,230.89389 L 937.47348,230.89389"
+       id="path3091"
+       sodipodi:nodetypes="cccc" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 938.22841,307.54484 L 897.16541,307.54484 L 898.53417,441.68402 L 938.02544,441.684"
+       id="path3093"
+       sodipodi:nodetypes="cccc" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 937.63685,348.60787 L 961.49746,348.60787 L 961.49746,401.98978 L 938.12692,401.98976"
+       id="path3095"
+       sodipodi:nodetypes="cccc" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 818.88083,427.34291 C 780.55535,405.10045 782.08749,345.80846 819.04418,323.90818"
+       id="path3097"
+       sodipodi:nodetypes="cc" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 500,48.163476 L 500,701.06536 L 500,701.06536"
+       id="path3107" />
+    <svg:path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:3.0052259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 925.80106,50.029747 C 925.80106,50.029747 927.7317,58.123562 936.19678,60.128428"
+       id="path3124"
+       sodipodi:nodetypes="cs" />
+    <svg:path
+       sodipodi:type="arc"
+       style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3126"
+       sodipodi:cx="513.85535"
+       sodipodi:cy="253.57072"
+       sodipodi:rx="1.0599999"
+       sodipodi:ry="1.3453845"
+       d="M 514.91535 253.57072 A 1.0599999 1.3453845 0 1 1  512.79535,253.57072 A 1.0599999 1.3453845 0 1 1  514.91535 253.57072 z"
+       transform="matrix(3.773585,0,0,2.973128,-1077.876,-378.8982)" />
+    <svg:path
+       sodipodi:type="arc"
+       style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3130"
+       sodipodi:cx="336.13116"
+       sodipodi:cy="253.02589"
+       sodipodi:rx="1.3663868"
+       sodipodi:ry="1.3663868"
+       d="M 337.49755 253.02589 A 1.3663868 1.3663868 0 1 1  334.76478,253.02589 A 1.3663868 1.3663868 0 1 1  337.49755 253.02589 z"
+       transform="matrix(2.927429,0,0,2.927429,-484.0001,-365.7153)" />
+  </svg:g>
+  <svg:g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
+    <svg:g
+       id="g3979">
+      <svg:switch
+         id="switch53"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5147-bs"
+           y="32.390625"
+           x="465.72949"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             id="tspan5151-bs"
+             y="32.390625"
+             x="465.72949"
+             sodipodi:role="line">90-120m</svg:tspan></svg:text>
+        <svg:text
+           id="text5147"
+           y="32.390625"
+           x="465.72949"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             id="tspan5151"
+             y="32.390625"
+             x="465.72949"
+             sodipodi:role="line">90-120m</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch59"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5155-bs"
+           y="372.38379"
+           x="424.58398"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             id="tspan5157-bs"
+             y="372.38379"
+             x="424.58398"
+             sodipodi:role="line">9,15m</svg:tspan></svg:text>
+        <svg:text
+           id="text5155"
+           y="372.38379"
+           x="424.58398"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             id="tspan5157"
+             y="372.38379"
+             x="424.58398"
+             sodipodi:role="line">9.15m</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch65"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5177-bs"
+           y="388.78809"
+           x="168.28906"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             id="tspan5179-bs"
+             y="388.78809"
+             x="168.28906"
+             sodipodi:role="line">9,15m</svg:tspan></svg:text>
+        <svg:text
+           id="text5177"
+           y="388.78809"
+           x="168.28906"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             id="tspan5179"
+             y="388.78809"
+             x="168.28906"
+             sodipodi:role="line">9.15m</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch71"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5181-bs"
+           y="426.78809"
+           x="71.878906"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="426.78809"
+             x="71.878906"
+             id="tspan5183-bs"
+             sodipodi:role="line">5,5m</svg:tspan></svg:text>
+        <svg:text
+           id="text5181"
+           y="426.78809"
+           x="71.878906"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="426.78809"
+             x="71.878906"
+             id="tspan5183"
+             sodipodi:role="line">5.5m</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch77"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5185-bs"
+           y="296.78809"
+           x="70.72168"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="296.78809"
+             x="70.72168"
+             id="tspan5187-bs"
+             sodipodi:role="line">5,5m</svg:tspan></svg:text>
+        <svg:text
+           id="text5185"
+           y="296.78809"
+           x="70.72168"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="296.78809"
+             x="70.72168"
+             id="tspan5187"
+             sodipodi:role="line">5.5m</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch83"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:105.99999428%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5189-bs"
+           y="371"
+           x="86.181641"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.05999994"
+             y="371"
+             x="86.181641"
+             id="tspan5191-bs"
+             sodipodi:role="line">11m</svg:tspan></svg:text>
+        <svg:text
+           id="text5189"
+           y="371"
+           x="86.181641"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.05999994"
+             y="371"
+             x="86.181641"
+             id="tspan5191"
+             sodipodi:role="line">11m</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch89"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5193-bs"
+           y="330.39062"
+           x="245.84277"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="330.39062"
+             x="245.84277"
+             id="tspan5195-bs"
+             sodipodi:role="line">40,3m</svg:tspan></svg:text>
+        <svg:text
+           id="text5193"
+           y="330.39062"
+           x="245.84277"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="330.39062"
+             x="245.84277"
+             id="tspan5195"
+             sodipodi:role="line">40.3m</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch95"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5197-bs"
+           y="493"
+           x="72.630615"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="493"
+             x="72.630615"
+             id="tspan5199-bs"
+             sodipodi:role="line">11m</svg:tspan></svg:text>
+        <svg:text
+           id="text5197"
+           y="493"
+           x="72.630615"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="493"
+             x="72.630615"
+             id="tspan5199"
+             sodipodi:role="line">11m</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch101"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           transform="rotate(-90)"
+           id="text5201-bs"
+           y="49.788086"
+           x="-336.03711"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="49.788086"
+             x="-336.03711"
+             id="tspan5203-bs"
+             sodipodi:role="line">45-90m</svg:tspan></svg:text>
+        <svg:text
+           transform="rotate(-90)"
+           id="text5201"
+           y="49.788086"
+           x="-336.03711"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="49.788086"
+             x="-336.03711"
+             id="tspan5203"
+             sodipodi:role="line">45-90m</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch107"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5205-bs"
+           y="698"
+           x="80.548828"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="698"
+             x="80.548828"
+             id="tspan5207-bs"
+             sodipodi:role="line">1 m</svg:tspan></svg:text>
+        <svg:text
+           id="text5205"
+           y="698"
+           x="80.548828"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="698"
+             x="80.548828"
+             id="tspan5207"
+             sodipodi:role="line">1 m</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch119"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5209-bs"
+           y="299.87265"
+           x="943.18066"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="299.87265"
+             x="943.18066"
+             id="tspan5211-bs"
+             sodipodi:role="line">Gol</svg:tspan><svg:tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:104.99999523%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan5213-bs"
+             y="314.57266"
+             x="943.18066"
+             sodipodi:role="line">7,32m</svg:tspan><svg:tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:104.99999523%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan5215-bs"
+             y="329.27264"
+             x="943.18066"
+             sodipodi:role="line">×</svg:tspan><svg:tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:104.99999523%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan5217-bs"
+             y="343.97266"
+             x="943.18066"
+             sodipodi:role="line">2,44m</svg:tspan></svg:text>
+        <svg:text
+           id="text5209"
+           y="299.87265"
+           x="943.18066"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="299.87265"
+             x="943.18066"
+             id="tspan5211"
+             sodipodi:role="line">Goal</svg:tspan><svg:tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:104.99999523%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan5213"
+             y="314.57266"
+             x="943.18066"
+             sodipodi:role="line">7.32m</svg:tspan><svg:tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:104.99999523%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan5215"
+             y="329.27264"
+             x="943.18066"
+             sodipodi:role="line">   ×</svg:tspan><svg:tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:104.99999523%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan5217"
+             y="343.97266"
+             x="943.18066"
+             sodipodi:role="line">2.44m</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch125"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5219-bs"
+           y="377.18359"
+           x="507.21191"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             id="tspan20304-bs"
+             y="377.18359"
+             x="507.21191"
+             sodipodi:role="line">Centralna tačka</svg:tspan></svg:text>
+        <svg:text
+           id="text5219"
+           y="377.18359"
+           x="507.21191"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             id="tspan20304"
+             y="377.18359"
+             x="507.21191"
+             sodipodi:role="line">Centre spot</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch131"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5223-bs"
+           y="209.67705"
+           x="515.29517"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="209.67705"
+             x="515.29517"
+             id="tspan5225-bs"
+             sodipodi:role="line">Linija polovine terena</svg:tspan></svg:text>
+        <svg:text
+           id="text5223"
+           y="209.67705"
+           x="515.29517"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="209.67705"
+             x="515.29517"
+             id="tspan5225"
+             sodipodi:role="line">Half-way line</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch137"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5227-bs"
+           y="321.52982"
+           x="549.2959"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="321.52982"
+             x="549.2959"
+             id="tspan5229-bs"
+             sodipodi:role="line">Centralni krug</svg:tspan></svg:text>
+        <svg:text
+           id="text5227"
+           y="321.52982"
+           x="549.2959"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="321.52982"
+             x="549.2959"
+             id="tspan5229"
+             sodipodi:role="line">Centre circle</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch145"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5231-bs"
+           y="249.4836"
+           x="832.70117"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="249.4836"
+             x="832.70117"
+             id="tspan5233-bs"
+             sodipodi:role="line">Kazneni prostor/</svg:tspan><svg:tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:104.99999523%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan5235-bs"
+             y="264.18359"
+             x="832.70117"
+             sodipodi:role="line">šesnaesterac</svg:tspan></svg:text>
+        <svg:text
+           id="text5231"
+           y="249.4836"
+           x="832.70117"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="249.4836"
+             x="832.70117"
+             id="tspan5233"
+             sodipodi:role="line">Penalty area</svg:tspan><svg:tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:104.99999523%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan5235"
+             y="264.18359"
+             x="832.70117"
+             sodipodi:role="line">18-yard box</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:switch
+         id="switch151"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text5237-bs"
+           y="393.63672"
+           x="809.70117"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="393.63672"
+             x="809.70117"
+             id="tspan5239-bs"
+             sodipodi:role="line">Tačka jedanaesterca</svg:tspan></svg:text>
+        <svg:text
+           id="text5237"
+           y="393.63672"
+           x="809.70117"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-size:14px;line-height:1.04999995"
+             y="393.63672"
+             x="809.70117"
+             id="tspan5239"
+             sodipodi:role="line">Penalty spot</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:path
+         id="path8058"
+         d="M 238.44828,524 C 238.44828,231 238.44828,231 238.44828,231"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);stroke-opacity:1" />
+      <svg:path
+         id="path8935"
+         d="M 69.301416,37.585863 C 933.6904,37.585863 933.6904,37.585863 933.6904,37.585863"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <svg:path
+         id="path11558"
+         d="M 498.71176,372.71304 C 454.15359,341.57528 454.15359,341.57528 454.15359,341.57528"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <svg:path
+         id="path12433"
+         d="M 197.10832,410.53084 C 152.55015,379.39308 152.55015,379.39308 152.55015,379.39308"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <svg:path
+         id="path16804"
+         d="M 57.47559,51.853437 C 57.47559,699.60045 57.47559,699.60045 57.47559,699.60045"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <svg:path
+         id="path17681"
+         d="M 78.344612,693.95777 C 78.344612,697.70037 78.344612,697.70037 78.344612,697.70037"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:0.68397659px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);stroke-opacity:1" />
+      <svg:path
+         id="path22056"
+         d="M 73.369106,302.42024 C 102.77922,302.42024 102.77922,302.42024 102.77922,302.42024"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1.06591034;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <svg:path
+         id="path23022"
+         d="M 72,220.53795 C 182,220.53795 183.57867,220.53795 183.57867,220.53795"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);stroke-opacity:1" />
+      <svg:switch
+         id="switch165"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana">
+        <svg:text
+           systemLanguage="bs"
+           id="text24770-bs"
+           y="213.42674"
+           x="98.890602"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:100%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="213.42674"
+             x="98.890602"
+             id="tspan24772-bs"
+             sodipodi:role="line">16,5m</svg:tspan></svg:text>
+        <svg:text
+           id="text24770"
+           y="213.42674"
+           x="98.890602"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><svg:tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:100%;font-family:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="213.42674"
+             x="98.890602"
+             id="tspan24772"
+             sodipodi:role="line">16.5m</svg:tspan></svg:text>
+      </svg:switch>
+      <svg:path
+         id="path25666"
+         d="M 72.324374,374.57976 C 139.32437,374.57976 139.32437,374.57976 139.32437,374.57976"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);stroke-opacity:1" />
+      <svg:path
+         id="path26541"
+         d="M 70.328414,408.1603 C 70.328414,436.32492 70.328414,436.32492 70.328414,436.32492"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:0.96205872px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);stroke-opacity:1" />
+      <svg:path
+         id="path27416"
+         d="M 70.562652,447.35494 C 70.562652,516.90787 70.562652,516.90787 70.562652,516.90787"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1.00706816px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);stroke-opacity:1" />
+    </svg:g>
+  </svg:g>
+  <style
+     class="darkreader darkreader--fallback">html, body, body :not(iframe) { background-color: #181a1b !important; border-color: #776e62 !important; color: #e8e6e3 !important; }</style>
+</svg:svg>
